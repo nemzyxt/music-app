@@ -1,4 +1,4 @@
-# vue-task-tracker
+# music-player
 
 ## Project setup
 ```
