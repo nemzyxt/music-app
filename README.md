@@ -1,5 +1,10 @@
 # music-player
 
+## Screenshots
+![music_app](https://GitHub.com/nemzyxt/music-app/blob/main/screenshots/music_app.png?raw=true)
+![music_app](https://GitHub.com/nemzyxt/music-app/blob/main/screenshots/playing.png?raw=true)
+
+
 ## Project setup
 ```
 npm install
